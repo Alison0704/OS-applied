@@ -1,2 +1,8 @@
 site_name: Applied OS
+theme:
+  name: material
 
+nav:
+  - Home: index.md
+  - OS concept: os-concept.md
+  - C++ concept: cpp-concept.md
