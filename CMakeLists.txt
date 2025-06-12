@@ -3,4 +3,4 @@ project(OS_applied)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(OS_applied main.cpp)
+add_executable(OS_applied project/docs/coding/main.cpp)
